@@ -19,4 +19,4 @@ In `MCFileTreeAbstractStWriter>>writeInDirectoryName: fileName:extension:visit:`
 
 ## Good to Know ##
 
-Pharo does not take this file into account.
+Pharo does not take this file into account as part of the sourcode files that it manages.
