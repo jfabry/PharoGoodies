@@ -19,4 +19,4 @@ In `MCFileTreeAbstractStWriter>>writeInDirectoryName: fileName:extension:visit:`
 
 ## Good to Know ##
 
-Don't edit this file locally. Do it directly in GitHub.
+Pharo does not take this file into account.
